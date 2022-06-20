@@ -1,4 +1,4 @@
 ---
-title: Github pages is an amazing tool for easy hosting
+title: Finished the Github pages skill walkthrough.
 ---
 
